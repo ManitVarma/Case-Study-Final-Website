@@ -1,0 +1,71 @@
+body{
+    background-color: gold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+.header_div{
+    color: gold;
+    background-color: navy;
+}
+.header_div img{
+    width: 100px;
+}
+.main_div{
+    background: lightseagreen;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid whitesmoke;
+}
+.main_div label{
+    background: whitesmoke;
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    border: 5px 5px 18px whitesmoke;
+}
+#camera, #result{
+    background: whitesmoke;
+    width: 310px;
+    height: 300px;
+    margin-bottom: 0px;
+    border: 5px 5px 18px whitesmoke;
+}
+.main_div button{
+    width: 310px;
+    font-size: 16px;
+    box-shadow: 5px 5px 18px whitesmoke;
+    border: 1px solid;
+}
+#copy_right_footer{
+    position: fixed;
+    background-color: whitesmoke;
+    text-align: center;
+    color: navy;
+    bottom: 0px;
+    line-height: 3;
+    width: 100%;
+
+}
+.footer-div{
+    margin-bottom: 50px;
+    background-color: navy;
+    box-shadow: 5px 5px 8px lightseagreen;
+    width: 100%;
+
+}
+.footer-div img{
+    width: 70px;
+}
+.footer-div h4{
+    background: whitesmoke;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 5px 5px 8px whitesmoke;
+}
+#header_gif{
+    height: 100px;
+    width: 100px;
+    box-shadow: 5px 5px 8px lightskyblue;
+}
+.footer-div{
+    background-color: lightseagreen;
+}
